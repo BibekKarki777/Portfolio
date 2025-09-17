@@ -7,7 +7,7 @@ import python from '../../assets/python.png';
 import design_thinking from '../../assets/design_thinking.png';
 import school from '../../assets/school.png';
 import college from '../../assets/college.png';
-import university from '../../assets/university.png';
+import university from '../../assets/University.png';
 import aws from '../../assets/aws.png';
 import git from '../../assets/git.png';
 import prompt from '../../assets/prompt.png';
