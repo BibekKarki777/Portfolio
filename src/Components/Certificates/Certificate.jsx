@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './certificate.css';
+import './Certificate.css';
 import sql from '../../assets/sql.jpg';
 import numpy from '../../assets/numpy.png';
 import frontend from '../../assets/frontend.jpg';

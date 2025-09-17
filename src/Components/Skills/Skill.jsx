@@ -2,7 +2,7 @@ import React from 'react';
 import { SiPython, SiJavascript, SiC, SiHtml5, SiCss3, SiReact, SiNumpy, SiTensorflow, SiFastapi, SiArduino, SiGit} from 'react-icons/si';
 import { FaChartLine, FaDatabase, FaRobot} from 'react-icons/fa';
 import { DiCode,DiTerminal} from 'react-icons/di';
-import './skill.css';
+import './Skill.css';
 
 const Skills = () => {
   const programmingLanguages = [
